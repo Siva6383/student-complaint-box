@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/student-complaint-box/static/css/main.2c301ff6.css",
+    "main.js": "/student-complaint-box/static/js/main.1caba0fc.js",
+    "static/js/453.de31a06d.chunk.js": "/student-complaint-box/static/js/453.de31a06d.chunk.js",
+    "index.html": "/student-complaint-box/index.html",
+    "main.2c301ff6.css.map": "/student-complaint-box/static/css/main.2c301ff6.css.map",
+    "main.1caba0fc.js.map": "/student-complaint-box/static/js/main.1caba0fc.js.map",
+    "453.de31a06d.chunk.js.map": "/student-complaint-box/static/js/453.de31a06d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c301ff6.css",
+    "static/js/main.1caba0fc.js"
+  ]
+}
